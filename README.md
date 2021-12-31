@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Ronaldo</h1>
+<h1 >Hi, I'm Ronaldo 👨‍💻</h1>
 <h3 >I am a software engineer who is passionate about designing, creating technologies, and building a community. Some technologies I enjoy working with include Html, Css, JavaScript, API + Markup, and ReactJS</h3>
 <img align="center" src="img-yo.png" alt="Ronaldo" width="145" height="124" />
 <h3 align="left">Connect with me:</h3>
