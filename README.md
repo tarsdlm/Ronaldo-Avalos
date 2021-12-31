@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ronaldo</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 >Hi, I'm Ronaldo</h1>
+<h3 >I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Html, Css, JavaScript, APIs + Markup and ReactJS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
