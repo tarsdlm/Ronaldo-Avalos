@@ -1,7 +1,6 @@
 <h1 >Hi, I'm Ronaldo</h1>
 <h3 >I am a software engineer who is passionate about designing, creating technologies, and building a community. Some technologies I enjoy working with include Html, Css, JavaScript, API + Markup, and ReactJS</h3>
-<img src="img-yo.png" alt="Ronaldo" width="206" height="176"/>
-
+<img src="img-yo.png" alt="Ronaldo" width="145" height="124" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ronaldo_avals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronaldo_avals" height="30" width="40" /></a>
