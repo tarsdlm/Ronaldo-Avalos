@@ -3,7 +3,7 @@
 ## Hi, I'm Ronaldo Avalos, a Developer 🚀 from México.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://octodex.github.com//images/steroidtocat.png" />
+<img width="55%" align="right" alt="Github" src="https://octodex.github.com/images/bouncercat.png" />
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -39,4 +39,5 @@ You can use the website to generate badges: https://shields.io/
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
 
 **Additionals:** 
+
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
