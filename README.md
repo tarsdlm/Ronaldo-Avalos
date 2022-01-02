@@ -1,6 +1,6 @@
+<<<<<<< HEAD
 <!-- Your title -->
 ## Hi, I'm Ronaldo Avalos, a Developer 🚀 from México.
-
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://octodex.github.com//images/steroidtocat.png" />
