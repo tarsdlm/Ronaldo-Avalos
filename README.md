@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Your title -->
 ## Hi, I'm Ronaldo Avalos, a Developer 🚀 from México.
 
